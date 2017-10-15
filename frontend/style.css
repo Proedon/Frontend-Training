@@ -1,0 +1,84 @@
+body { 
+    padding-top: 50px;
+    position:relative;
+    width:100%;
+}
+
+h3 {
+    text-align: center;
+    font-family: Roboto;
+}
+
+.p_tag_header {
+    text-align: center;
+    font-family: Roboto;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 25px;
+    font-family: Roboto;
+}
+
+#jumbotrons {
+    color:#fff;
+    background: url(images/coding-924920_1920.jpg) center no-repeat;
+    background-attachment: fixed;
+    height:100vh ;
+    background-color:#fff;
+    padding-top:25vh;
+}
+
+#header-text{
+    font-size:30px;
+    font-family: Roboto;
+}
+
+#Bootstrap {
+     margin-top:25px;   
+}
+
+.section-text {
+    font-size:20px;
+    padding-top:40px;
+    font-family: Roboto;
+}
+
+#section_hr{
+    width:80%;
+    height:10px;
+    background-color:#212121;
+    margin:0 auto;
+}
+
+#hr_ux_bootstrap{
+    margin-top:50px;
+}
+
+#tilbage-til-top{
+    margin:0 auto;
+}
+
+.jQuery-text{
+    font-size:20px;
+    font-family: Roboto;
+}
+
+.back_to_top{
+    background-color:#212121;
+    position: fixed;
+    color:#F44336;
+    padding:10px;
+    top:94vh;
+    right:20px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px solid #212121;
+    font-family: Roboto;
+}
+
+.back_to_top:hover{
+    background-color:#E0E0E0;
+    text-decoration: none;
+    color:#000;
+}
